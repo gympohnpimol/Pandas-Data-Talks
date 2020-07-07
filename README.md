@@ -1,2 +1,2 @@
 # Pandas-Data-Talks
-Pandas Exercise
+Pandas Practice for Data Analyst
